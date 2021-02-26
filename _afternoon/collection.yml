@@ -1,0 +1,6 @@
+collections:
+  afternoon:
+    output: true
+    order:
+      - lunch.md
+      - snacks.md

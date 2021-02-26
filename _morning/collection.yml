@@ -1,0 +1,7 @@
+collections:
+  morning:
+    output: true
+    order:
+      - breakfast/nasi-lemak.md
+      - breakfast/prawn-mee.md
+      - drinks.md

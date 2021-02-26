@@ -1,0 +1,8 @@
+collections:
+  evening:
+    output: true
+    order:
+      - dinner.md
+      - drinks/sake.md
+      - drinks/soju.md
+      - drinks/wine.md
