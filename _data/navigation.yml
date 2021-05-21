@@ -8,5 +8,3 @@ links:
     collection: evening
   - title: Afternoon
     collection: afternoon
-  - title: Test
-    resource_room: true
